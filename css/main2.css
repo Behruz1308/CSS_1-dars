@@ -1,0 +1,52 @@
+body{
+    background-color: teal;
+    background-image: url("../Rasmlar/Lion.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position:  center  200px;
+}
+.boks{
+    color: lavender;
+   border: 5px solid white;
+    /*border-top: 5px;
+    border-style: solid;
+    border-color: white;*/
+   /* border-top-width: 10px;
+    border-left-width: 15px;
+    border-bottom-width: 10px;
+    border-right-width: 15px;
+    border-top-style: double;
+    border-left-style: inset;
+    border-bottom-style: double;
+    border-right-style: inset;
+    border-top-color: aqua;
+    border-left-color: navy;
+    border-bottom-color: blueviolet;
+    border-right-color: greenyellow;*/
+    text-align: justify;
+    text-decoration: underline;
+    word-spacing: 5px;
+    line-height: 10px;
+}
+.block{    background-color: white;
+   /* width: 500px;
+    height: 150px;*/
+    max-width: 500px;
+    max-height: 450px;
+    /*max-width: 500px;
+    max-height: 500px;*/
+
+
+    /*margin:50px 100px 30px 70px;*/
+   /* margin-top: 50px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-left: 70px;*/
+    margin: 200px auto;
+    padding: 50px 100px 30px 70px;
+    /*padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 70px;*/
+  box-sizing: border-box;
+}
